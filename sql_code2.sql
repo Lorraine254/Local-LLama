@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM "essays" WHERE "score" = 3;
